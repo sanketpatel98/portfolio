@@ -4,7 +4,7 @@ const info = {
         name: "Sanket Patel",
         description: "I'm a dedicated software engineer specializing in full-stack and mobile development. With a strong passion for solving complex problems, I continuously strive to enhance my skills and deliver high-quality, efficient solutions. I have extensive experience in a variety of programming languages, frameworks, and cloud technologies, and I thrive in dynamic, agile environments.",
         role: "Full-Stack Developer",
-        photo: "../pp1.png",
+        photo: "pp1.png",
         email: "patelsanketr98@gmail.com",
     },
 
