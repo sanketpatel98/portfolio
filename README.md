@@ -1,4 +1,4 @@
-# 🚀 DSFolio V1
+# 🚀 Sanket Patel Portfolio
 
 <center>
     <img src="/public/cover.png" alt="SanketPatel" />
