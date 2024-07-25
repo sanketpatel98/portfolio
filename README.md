@@ -5,7 +5,7 @@
 </center>
 
 <center>
-    🌐 [Live Demo](https://mern-2-0-jhwx.vercel.app/)
+    🌐 [Live Demo](https://sanketpatel98.github.io/portfolio/)
 </center>
 
 ## 🛠️ Technologies Used
