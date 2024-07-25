@@ -22,7 +22,7 @@ const info = {
 			description: "Developed to learn full-stack web development using MongoDB, Express, React, and Node.js, providing blogging functionalities.",
             technologies: "React, Express, Node, Mongo",
 			github: "https://github.com/sanketpatel98/MERN-Vlog.git",
-            link: "https://mern-blog-7ttj.onrender.com/"
+            link: "https://mern-2-0-jhwx.vercel.app/"
 		},
 
         {
