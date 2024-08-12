@@ -18,6 +18,13 @@ const info = {
     // ============ PROJECTS ============
     projects: [
         {
+            title: "AIMockData",
+            description: "A versatile data generation tool(npm package) that uses Google Gemini AI to create mock data based on user-defined schemas and parameters.",
+            technologies: "JavaScript, Gemini API, NPM",
+            github: "https://github.com/sanketpatel98/AiMockData.git",
+            link: "https://www.npmjs.com/package/aimockdata?activeTab=readme"
+        },
+        {
 			title: "Blogging Hub",
 			description: "Developed to learn full-stack web development using MongoDB, Express, React, and Node.js, providing blogging functionalities.",
             technologies: "React, Express, Node, Mongo",
